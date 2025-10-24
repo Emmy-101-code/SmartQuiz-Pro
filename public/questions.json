@@ -1,0 +1,202 @@
+[
+  {
+    "q": "What does HTML stand for?",
+    "options": [
+      "Hyperlinks and Text Markup Language",
+      "HyperText Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinking Text Markup Language"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which language is primarily used for styling web pages?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "CSS",
+      "C++"
+    ],
+    "a": 2
+  },
+  {
+    "q": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Cascading Style Sheets",
+      "Control Style Sheets"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which company developed the React library?",
+    "options": [
+      "Google",
+      "Facebook (Meta)",
+      "Microsoft",
+      "Twitter"
+    ],
+    "a": 1
+  },
+  {
+    "q": "What is the command to initialize a new Vite React project?",
+    "options": [
+      "npm create vite@latest",
+      "npm init react-app",
+      "npx create-react-app",
+      "npm install vite"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which HTML tag is used to link a stylesheet?",
+    "options": [
+      "<script>",
+      "<link>",
+      "<style>",
+      "<css>"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which of these is NOT a JavaScript data type?",
+    "options": [
+      "String",
+      "Number",
+      "Boolean",
+      "Character"
+    ],
+    "a": 3
+  },
+  {
+    "q": "What does 'npm' stand for?",
+    "options": [
+      "Node Package Manager",
+      "New Package Manager",
+      "Node Performance Monitor",
+      "Next Package Manager"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which attribute is used to give unique identity to HTML elements?",
+    "options": [
+      "class",
+      "id",
+      "name",
+      "data"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which method is used to add an item to the end of an array in JavaScript?",
+    "options": [
+      "push()",
+      "pop()",
+      "shift()",
+      "unshift()"
+    ],
+    "a": 0
+  },
+  {
+    "q": "What is JSX in React?",
+    "options": [
+      "A CSS preprocessor",
+      "A templating language",
+      "A syntax extension combining JS and HTML",
+      "A database query language"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which hook lets you manage state in a functional React component?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useMemo",
+      "useRef"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "a": 0
+  },
+  {
+    "q": "What symbol is used for comments in JavaScript single-line?",
+    "options": [
+      "<!-- -->",
+      "/* */",
+      "#",
+      "//"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which CSS property controls the space between lines of text?",
+    "options": [
+      "letter-spacing",
+      "line-height",
+      "text-align",
+      "word-spacing"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which tool helps to bundle JavaScript modules for the browser?",
+    "options": [
+      "Vite",
+      "Postman",
+      "Figma",
+      "Photoshop"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which method is used to find an element in the DOM by its ID?",
+    "options": [
+      "getElementById()",
+      "querySelectorAll()",
+      "getElementsByClassName()",
+      "getElementsByTagName()"
+    ],
+    "a": 0
+  },
+  {
+    "q": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Application Production Instance",
+      "Advanced Programming Interface",
+      "Application Process Integration"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which CSS framework did we choose for this project?",
+    "options": [
+      "Bootstrap",
+      "Tailwind CSS",
+      "Bulma",
+      "Foundation"
+    ],
+    "a": 1
+  },
+  {
+    "q": "What command runs the Vite dev server?",
+    "options": [
+      "npm run dev",
+      "npm start",
+      "node server.js",
+      "npm run start"
+    ],
+    "a": 0
+  }
+]
