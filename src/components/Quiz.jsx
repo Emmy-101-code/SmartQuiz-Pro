@@ -34,8 +34,7 @@ export default function Quiz({ question, index, total, onAnswer, onNext }){
       <QuestionCard question={question} selected={selected} onChoose={choose} />
 
       <div className="mt-4 flex items-center justify-between">
-        {/* <div className="text-sm text-slate-400">Score: <span className="font-semibold text-white">{/* score shown in header */}</span></div> */}
-        // <div className="text-xs text-slate-400">Auto next — instant feedback</div>
+      
       </div>
     </motion.div>
   )
